@@ -1,3 +1,6 @@
+# Installing Titan Network Node by Nodezilla101
+==============================================
+
 1. Run the following command and download:
 
 sudo bash -c 'git clone https://github.com/Nodezilla101/Titan-node.git && cd titan  && chmod ugo+x titanDK.sh && ./titanDK.sh'
