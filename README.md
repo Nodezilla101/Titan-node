@@ -4,6 +4,7 @@
 1. First of all, purchase a server from;
    
 https://medium.com/@nodezilla101/how-to-get-a-vps-to-run-your-node-323da2efcb31
+
 Server specifications:
 
 Recommended Requirements:
@@ -13,6 +14,8 @@ RAM: 2GB
 Storage: 30GB
 
 https://test1.titannet.io/intiveRegister?code=QsnPIP
+
+#Install the script.
 
 1. Run the following command and download:
 
